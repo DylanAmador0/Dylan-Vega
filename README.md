@@ -15,9 +15,9 @@ Aprendiendo C++, python, algoritmos y estructuras de datos, bases de datos y tod
 
 ## En qué estoy trabajando
 
-- 🔨 Construyendo: Calculadora CLI en C++
-- 📚 Estudiando: Programación Orientada a Objetos, Redes, Inteligencia Artificial
-- 🎯 Meta 2025: Terminar mi primer portafolio con 6 proyectos
+- Construyendo: Calculadora CLI en C++
+- Estudiando: Programación Orientada a Objetos, Redes, Inteligencia Artificial
+- Meta 2026: Terminar mi primer portafolio con 6 proyectos
 
 ---
 
@@ -27,7 +27,7 @@ Aprendiendo C++, python, algoritmos y estructuras de datos, bases de datos y tod
 
 ---
 
-## 📫 Contáctame
+## Contáctame
 
 - Email: Dylanamador018@email.com
 - LinkedIn: *próximamente*
